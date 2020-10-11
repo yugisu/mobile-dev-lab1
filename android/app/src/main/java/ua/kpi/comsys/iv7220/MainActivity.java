@@ -1,4 +1,4 @@
-package com.lab1;
+package ua.kpi.comsys.iv7220;
 
 import android.os.Bundle;
 
