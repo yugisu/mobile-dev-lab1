@@ -1,12 +1,11 @@
 {
   "name": "Lab1",
   "displayName": "Lab1",
+  "icon": "assets/icon.png",
   "expo": {
     "name": "Lab1",
     "slug": "Lab1",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
