@@ -7,6 +7,13 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "repository": {
+    "url": "https://github.com/yugisu/mobile-dev-lab1"
+  },
+  "author": {
+    "name": "Дмитрій Пузир, ІВ-72",
+    "email": "slymahel@gmail.com"
+  },
   "dependencies": {
     "expo": "~39.0.2",
     "expo-splash-screen": "~0.6.2",
